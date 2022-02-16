@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node3" appversion="6.1.10" apprev="18007">
+  <panorama id="node3">
+    <input overlap="1" levelingroll="0" height="1440" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1440" levelingpitch="0">
+      <level preload="0" height="1440" predecode="0" width="1440"/>
+      <level preload="0" height="720" predecode="0" width="720"/>
+      <level preload="1" height="360" predecode="1" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="64.6932" projection="4" tilt="2.14762" pan="-16.4389"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90" pan="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" title="Groninger Graffiti" copyright="" customnodeid="" source="" tags="360 fotos" description="" heading="0" author="" info="" nodeid="node3" datetime="5-2-2022 13:19"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label background="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" border="1" bordercolor="0x000000" width="180" textcolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" title="Hal oostvleugel" description="" target="" tilt="-3.48" url="{node5}" pan="-215.77"/>
+      <hotspot id="Point02" skinid="ht_url" title="Bekijk deze tentoonstelling online!" description="" target="_blank" tilt="-1.14" url="https://www.groningermuseum.nl/kunst/tentoonstellingen/graffiti-in-new-york" pan="-334.89"/>
+      <hotspot id="Point03" skinid="ht_info" title="Bekijk JR:Chronicles" description="Gefopt ;), Om JR:Chronicles z'n bekende uitspraak eer aan te doen ''On the street my work reaches people who may not go to museums''. Daarom zou u zelf naar het Groninger museum moeten gaan." target="" tilt="-2.59" url="" pan="-317.65"/>
+      <hotspot id="Point04" skinid="ht_image" title="Bekijk hier de introductie van JR:Chronicles" description="" target="" tilt="-6.99" url="images/20220205_135418.jpg" pan="-317.54"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" enabled="1" blendtime="1" softedge="0" type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" invertwheel="0" hideabout="0" sensitivity="8" invertcontrol="1" simulatemass="1" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input overlap="1" levelingroll="0" height="1440" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1440" levelingpitch="0">
+      <level preload="0" height="1440" predecode="0" width="1440"/>
+      <level preload="0" height="720" predecode="0" width="720"/>
+      <level preload="1" height="360" predecode="1" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="65.7146" projection="4" tilt="5.5183" pan="-14.654"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90" pan="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" title="Hal oostvleugel" copyright="" customnodeid="" source="" tags="360 fotos" description="" heading="0" author="" info="" nodeid="node5" datetime="5-2-2022 13:20"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label background="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" border="1" bordercolor="0x000000" width="180" textcolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" title="Groninger Graffiti" description="" target="" tilt="-9.99" url="{node3}" pan="-238.7"/>
+      <hotspot id="Point02" skinid="ht_node" title="Kunstkring van Groninger Artisten" description="" target="" tilt="-6.34" url="{node7}" pan="-110.52"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" enabled="1" blendtime="1" softedge="0" type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" invertwheel="0" hideabout="0" sensitivity="8" invertcontrol="1" simulatemass="1" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input overlap="1" levelingroll="0" height="1440" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1440" levelingpitch="0">
+      <level preload="0" height="1440" predecode="0" width="1440"/>
+      <level preload="0" height="720" predecode="0" width="720"/>
+      <level preload="1" height="360" predecode="1" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" tilt="21.1153" pan="-0.752095"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90" pan="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" title="Kunstkring van Groninger Artisten" copyright="" customnodeid="" source="" tags="360 fotos" description="" heading="0" author="" info="" nodeid="node7" datetime="5-2-2022 13:22"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label background="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" border="1" bordercolor="0x000000" width="180" textcolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" title="Hal oostvleugel" description="" target="" tilt="3.39" url="{node5}" pan="-284.72"/>
+      <hotspot id="Point02" skinid="ht_node" title="Ploegpaviljoen west" description="" target="" tilt="3.72" url="{node10}" pan="-89.04"/>
+      <hotspot id="Point03" skinid="ht_node" title="" description="" target="" tilt="5.04" url="{node20}" pan="-244.76"/>
+      <hotspot id="Point04" skinid="ht_url" title="Bekijk deze tentoonstelling online" description="" target="_blank" tilt="21.97" url="https://www.groningermuseum.nl/kunst/tentoonstellingen/de-ploeg" pan="-1.57"/>
+      <hotspot id="Point05" skinid="ht_url" title="Kom meer te weten over kunstkring de ploeg" description="" target="_blank" tilt="16.14" url="https://www.groningermuseum.nl/kunst/alles-over-de-ploeg" pan="-316.7"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" enabled="1" blendtime="1" softedge="0" type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" invertwheel="0" hideabout="0" sensitivity="8" invertcontrol="1" simulatemass="1" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input overlap="1" levelingroll="0" height="1440" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1440" levelingpitch="0">
+      <level preload="0" height="1440" predecode="0" width="1440"/>
+      <level preload="0" height="720" predecode="0" width="720"/>
+      <level preload="1" height="360" predecode="1" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" tilt="20.9019" pan="20.5962"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90" pan="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" title="Ploegpaviljoen west" copyright="" customnodeid="" source="" tags="360 fotos" description="" heading="0" author="" info="" nodeid="node10" datetime="5-2-2022 13:26"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label background="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" border="1" bordercolor="0x000000" width="180" textcolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" title="Kunstkring van Groninger Artisten" description="" target="" tilt="1.54" url="{node7}" pan="-192.7"/>
+      <hotspot id="Point02" skinid="ht_node" title="Ploegpaviljoen Oost" description="" target="" tilt="-2.89" url="{node11}" pan="-73.48"/>
+      <hotspot id="Point03" skinid="ht_node" title="Abstractecomposities" description="" target="" tilt="2.15" url="{node13}" pan="-90.41"/>
+      <hotspot id="Point04" skinid="ht_info" title="Lees hier over het expressionisme in Groningen" description="Al vrij snel formeerde zich onder aanvoering van Jan Wiegers binnen De Ploeg een groep schilders die inspiratie vond in het expressionisme. Vanaf 1922 drukten zij een nadrukkelijk stempel op alle verenigingsactiviteiten. Daarvoor ontwikkelde zijn stijl zich al in die richting, maar in Zwitserland had Wiegers zich definitief tot het expressionisme bekeerd. Door ziekte genoodzaakt verbleef hij in 1920-1921 in Davos, alwaar hij de voorman van het Duits Expressionisme Ernst Ludwig Kirchner leerde kennen. Diens persoonlijkheid en stijl maakten een beslissende indruk op hem en eenmaal hersteld introduceerde hij een nieuwe richting in Groningen. Op aangeven van hem gaven kunstenaars als Altink, Dijkstra, Werkman en Martens zich over aan experimenten met kleur, wasverf en expressieve vormen van grafiek. Het expressionisme van De Ploeg is terug te voeren op het werk van kunstenaars als Vincent van Gogh, Edvard Munch en Piet van Wijngaerdt, maar vond in dat van Kirchner haar artistieke grammatica.&#xa;De periode waarin het Groninger expressionisme de toon zette binnen De Ploeg duurde uiteindelijk maar kort. Wiegers en Altink matigden omstreeks 1926 hun kleurpalet en Dijkstra keerde zo’n drie jaar later terug tot een meer impressionistische wijze van werken.&#xa;Werkman, die zich minder nadrukkelijk dan hen had ingelaten met ‘Kirchners’ stijl, ontwikkelde een geheel eigen expressionistische schilderkunst, maar zou zich vooral bezighouden met zijn drukkunst. Aanvankelijk met behulp van zijn handpers, later aan de hand van stempel- en sjabloontechnieken vervaardigde hij zijn beroemd geworden druksels, die dan weer figuratief, dan weer abstract waren." target="" tilt="7.55" url="" pan="-297.37"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" enabled="1" blendtime="1" softedge="0" type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" invertwheel="0" hideabout="0" sensitivity="8" invertcontrol="1" simulatemass="1" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input overlap="1" levelingroll="0" height="1440" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1440" levelingpitch="0">
+      <level preload="0" height="1440" predecode="0" width="1440"/>
+      <level preload="0" height="720" predecode="0" width="720"/>
+      <level preload="1" height="360" predecode="1" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="53.0036" projection="4" tilt="11.2894" pan="96.5607"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90" pan="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" title="Ploegpaviljoen Oost" copyright="" customnodeid="" source="" tags="360 fotos" description="" heading="0" author="" info="" nodeid="node11" datetime="5-2-2022 13:26"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label background="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" border="1" bordercolor="0x000000" width="180" textcolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" title="Ploegpaviljoen west" description="" target="" tilt="-4.95" url="{node10}" pan="-82.14"/>
+      <hotspot id="Point02" skinid="ht_node" title="Kunstkring van Groninger Artisten" description="" target="" tilt="0.63" url="{node7}" pan="-68.15"/>
+      <hotspot id="Point03" skinid="ht_node" title="Abstractecomposities" description="" target="" tilt="1.2" url="{node13}" pan="-313.83"/>
+      <hotspot id="Point04" skinid="ht_url" title="Het verhaal achter de H.N Werkmankast" description="" target="_blank" tilt="6.06" url="https://www.groningermuseum.nl/pers/h-n-werkmankast-titel-persbericht" pan="-262.54"/>
+      <hotspot id="Point05" skinid="ht_video_youtube" title="Bekijk hier de Film 'De Ploeg 1918-1928'" description="" target="" tilt="7.56" url="3JKYMkLdeLQ" pan="-238.9"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" enabled="1" blendtime="1" softedge="0" type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" invertwheel="0" hideabout="0" sensitivity="8" invertcontrol="1" simulatemass="1" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input overlap="1" levelingroll="0" height="1440" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1440" levelingpitch="0">
+      <level preload="0" height="1440" predecode="0" width="1440"/>
+      <level preload="0" height="720" predecode="0" width="720"/>
+      <level preload="1" height="360" predecode="1" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" tilt="19.9693" pan="1.95513"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90" pan="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" title="Abstractecomposities" copyright="" customnodeid="" source="" tags="360 fotos" description="" heading="0" author="" info="" nodeid="node13" datetime="5-2-2022 13:29"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label background="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" border="1" bordercolor="0x000000" width="180" textcolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" title="Ploegpaviljoen Oost" description="" target="" tilt="-0.4" url="{node11}" pan="-52.02"/>
+      <hotspot id="Point02" skinid="ht_node" title="Meesterwerken" description="" target="" tilt="-5.31" url="{node14}" pan="-130.75"/>
+      <hotspot id="Point03" skinid="ht_url" title="Lees meer over de collectie van het Groninger museum" description="" target="_blank" tilt="16.37" url="https://www.groningermuseum.nl/kunst/tentoonstellingen/de-collectie" pan="-36"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" enabled="1" blendtime="1" softedge="0" type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" invertwheel="0" hideabout="0" sensitivity="8" invertcontrol="1" simulatemass="1" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input overlap="1" levelingroll="0" height="1440" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1440" levelingpitch="0">
+      <level preload="0" height="1440" predecode="0" width="1440"/>
+      <level preload="0" height="720" predecode="0" width="720"/>
+      <level preload="1" height="360" predecode="1" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" tilt="14.7111" pan="-178.573"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90" pan="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" title="Meesterwerken" copyright="" customnodeid="" source="" tags="360 fotos" description="" heading="0" author="" info="" nodeid="node14" datetime="5-2-2022 13:33"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label background="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" border="1" bordercolor="0x000000" width="180" textcolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" title="Memphis Design 01" description="" target="" tilt="-0.91" url="{node15}" pan="-36.87"/>
+      <hotspot id="Point02" skinid="ht_node" title="Abstractecomposities" description="" target="" tilt="-0.24" url="{node13}" pan="-271.2"/>
+      <hotspot id="Point03" skinid="ht_video_youtube" title="Bekijk het verhaal van elk meesterwerk in detail" description="" target="" tilt="7.4" url="2K5CNeguNAc" pan="-294.05"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" enabled="1" blendtime="1" softedge="0" type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" invertwheel="0" hideabout="0" sensitivity="8" invertcontrol="1" simulatemass="1" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input overlap="1" levelingroll="0" height="1440" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1440" levelingpitch="0">
+      <level preload="0" height="1440" predecode="0" width="1440"/>
+      <level preload="0" height="720" predecode="0" width="720"/>
+      <level preload="1" height="360" predecode="1" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="84.769" projection="4" tilt="18.4032" pan="5.04324"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90" pan="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" title="Memphis Design 01" copyright="" customnodeid="" source="" tags="360 fotos" description="" heading="0" author="" info="" nodeid="node15" datetime="5-2-2022 13:35"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label background="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" border="1" bordercolor="0x000000" width="180" textcolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" title="Meesterwerken" description="" target="" tilt="-2.82" url="{node14}" pan="-160.4"/>
+      <hotspot id="Point02" skinid="ht_node" title="Memphis Design 02" description="" target="" tilt="0.55" url="{node18}" pan="-267.44"/>
+      <hotspot id="Point03" skinid="ht_url" title="Bekijk het vehaal achter deze tentoonstelling" description="" target="_blank" tilt="4.67" url="https://www.groningermuseum.nl/kunst/tentoonstellingen/graffiti-in-new-york" pan="-125.96"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" enabled="1" blendtime="1" softedge="0" type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" invertwheel="0" hideabout="0" sensitivity="8" invertcontrol="1" simulatemass="1" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input overlap="1" levelingroll="0" height="1440" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1440" levelingpitch="0">
+      <level preload="0" height="1440" predecode="0" width="1440"/>
+      <level preload="0" height="720" predecode="0" width="720"/>
+      <level preload="1" height="360" predecode="1" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" tilt="25.2632" pan="-0.954306"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90" pan="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" title="Memphis Design 02" copyright="" customnodeid="" source="" tags="360 fotos" description="" heading="0" author="" info="" nodeid="node18" datetime="5-2-2022 13:36"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label background="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" border="1" bordercolor="0x000000" width="180" textcolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" title="Memphi Design 03" description="" target="" tilt="2.78" url="{node19}" pan="-269.54"/>
+      <hotspot id="Point02" skinid="ht_node" title="Memphis Design 01" description="" target="" tilt="3.35" url="{node15}" pan="-88.82"/>
+      <hotspot id="Point03" skinid="ht_url" title="Memphis design? Wat is dat nou" description="" target="_blank" tilt="12.16" url="https://www.groningermuseum.nl/kunst/tentoonstellingen/memphis-design" pan="-107.59"/>
+      <hotspot id="Point04" skinid="ht_url" title="Wat is dit nou?" description="" target="_blank" tilt="33.41" url="https://collectie.groningermuseum.nl/Details/collect/5096" pan="-35.59"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" enabled="1" blendtime="1" softedge="0" type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" invertwheel="0" hideabout="0" sensitivity="8" invertcontrol="1" simulatemass="1" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input overlap="1" levelingroll="0" height="1440" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1440" levelingpitch="0">
+      <level preload="0" height="1440" predecode="0" width="1440"/>
+      <level preload="0" height="720" predecode="0" width="720"/>
+      <level preload="1" height="360" predecode="1" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" tilt="19.1925" pan="-155.975"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90" pan="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" title="Memphi Design 03" copyright="" customnodeid="" source="" tags="360 fotos" description="" heading="0" author="" info="" nodeid="node19" datetime="5-2-2022 13:37"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label background="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" border="1" bordercolor="0x000000" width="180" textcolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" title="Memphis Design 02" description="" target="" tilt="0.46" url="{node18}" pan="-79.04"/>
+      <hotspot id="Point02" skinid="ht_node" title="Kunstkring van Groninger Artisten" description="" target="" tilt="7.3" url="{node7}" pan="-213.53"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" enabled="1" blendtime="1" softedge="0" type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" invertwheel="0" hideabout="0" sensitivity="8" invertcontrol="1" simulatemass="1" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input overlap="1" levelingroll="0" height="1440" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1440" levelingpitch="0">
+      <level preload="0" height="1440" predecode="0" width="1440"/>
+      <level preload="0" height="720" predecode="0" width="720"/>
+      <level preload="1" height="360" predecode="1" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" tilt="13.9163" pan="-2.95349"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90" pan="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" title="Pronkjewails 01" copyright="" customnodeid="" source="" tags="360 fotos" description="" heading="0" author="" info="" nodeid="node20" datetime="5-2-2022 13:39"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label background="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" border="1" bordercolor="0x000000" width="180" textcolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" title="Kunstkring van Groninger Artisten" description="" target="" tilt="-3.83" url="{node7}" pan="-167.49"/>
+      <hotspot id="Point02" skinid="ht_node" title="Pronkjewails 02" description="" target="" tilt="3.51" url="{node21}" pan="-280.34"/>
+      <hotspot id="Point03" skinid="ht_node" title="Pronkjewails 03" description="" target="" tilt="2.14" url="{node22}" pan="-99.85"/>
+      <hotspot id="Point04" skinid="ht_url" title="Pronkjewails, het design uit het verleden en heden" description="" target="_blank" tilt="14.04" url="https://www.groningermuseum.nl/kunst/tentoonstellingen/pronkjewails-design-uit-heden-en-verleden" pan="-22.27"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" enabled="1" blendtime="1" softedge="0" type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" invertwheel="0" hideabout="0" sensitivity="8" invertcontrol="1" simulatemass="1" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input overlap="1" levelingroll="0" height="1440" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1440" levelingpitch="0">
+      <level preload="0" height="1440" predecode="0" width="1440"/>
+      <level preload="0" height="720" predecode="0" width="720"/>
+      <level preload="1" height="360" predecode="1" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="63.9102" projection="4" tilt="13.5323" pan="-150.492"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90" pan="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" title="Pronkjewails 02" copyright="" customnodeid="" source="" tags="360 fotos" description="" heading="0" author="" info="" nodeid="node21" datetime="5-2-2022 13:40"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label background="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" border="1" bordercolor="0x000000" width="180" textcolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" title="Pronkjewails 01" description="" target="" tilt="0.37" url="{node20}" pan="-283.99"/>
+      <hotspot id="Point02" skinid="ht_node" title="Pronkjewails 05" description="" target="" tilt="0.24" url="{node24}" pan="-103.91"/>
+      <hotspot id="Point03" skinid="ht_image" title="Bekijk deze vazen van dichtbij" description="" target="" tilt="11.29" url="images/20220205_134435.jpg" pan="-142.29"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" enabled="1" blendtime="1" softedge="0" type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" invertwheel="0" hideabout="0" sensitivity="8" invertcontrol="1" simulatemass="1" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input overlap="1" levelingroll="0" height="1440" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1440" levelingpitch="0">
+      <level preload="0" height="1440" predecode="0" width="1440"/>
+      <level preload="0" height="720" predecode="0" width="720"/>
+      <level preload="1" height="360" predecode="1" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" tilt="19.0874" pan="148.498"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90" pan="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" title="Pronkjewails 05" copyright="" customnodeid="" source="" tags="360 fotos" description="" heading="0" author="" info="" nodeid="node24" datetime="5-2-2022 13:42"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label background="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" border="1" bordercolor="0x000000" width="180" textcolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" title="Pronkjewails 05" description="" target="" tilt="2.33" url="{node24}" pan="-282.11"/>
+      <hotspot id="Point02" skinid="ht_node" title="Pronkjewails 04" description="" target="" tilt="1.26" url="{node23}" pan="-9.5"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" enabled="1" blendtime="1" softedge="0" type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" invertwheel="0" hideabout="0" sensitivity="8" invertcontrol="1" simulatemass="1" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input overlap="1" levelingroll="0" height="1440" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1440" levelingpitch="0">
+      <level preload="0" height="1440" predecode="0" width="1440"/>
+      <level preload="0" height="720" predecode="0" width="720"/>
+      <level preload="1" height="360" predecode="1" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" tilt="31.2118" pan="131.367"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90" pan="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" title="Pronkjewails 04" copyright="" customnodeid="" source="" tags="360 fotos" description="" heading="0" author="" info="" nodeid="node23" datetime="5-2-2022 13:42"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label background="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" border="1" bordercolor="0x000000" width="180" textcolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" title="Pronkjewails 05" description="" target="" tilt="-2.1" url="{node24}" pan="-50.53"/>
+      <hotspot id="Point02" skinid="ht_node" title="" description="" target="" tilt="4.27" url="{node25}" pan="-314.12"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" enabled="1" blendtime="1" softedge="0" type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" invertwheel="0" hideabout="0" sensitivity="8" invertcontrol="1" simulatemass="1" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input overlap="1" levelingroll="0" height="1440" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1440" levelingpitch="0">
+      <level preload="0" height="1440" predecode="0" width="1440"/>
+      <level preload="0" height="720" predecode="0" width="720"/>
+      <level preload="1" height="360" predecode="1" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="53.271" projection="4" tilt="10.7981" pan="-9.03085"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90" pan="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" title="Pronkjewails 03" copyright="" customnodeid="" source="" tags="360 fotos" description="" heading="0" author="" info="" nodeid="node22" datetime="5-2-2022 13:41"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label background="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" border="1" bordercolor="0x000000" width="180" textcolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" title="Pronkjewails 01" description="" target="" tilt="2.34" url="{node20}" pan="-276.8"/>
+      <hotspot id="Point02" skinid="ht_node" title="Pronkjewails 07" description="" target="" tilt="3.6" url="{node26}" pan="-62.65"/>
+      <hotspot id="Point03" skinid="ht_node" title="Pronkjewails 06" description="" target="" tilt="2.19" url="{node25}" pan="-179.85"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" enabled="1" blendtime="1" softedge="0" type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" invertwheel="0" hideabout="0" sensitivity="8" invertcontrol="1" simulatemass="1" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input overlap="1" levelingroll="0" height="1440" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1440" levelingpitch="0">
+      <level preload="0" height="1440" predecode="0" width="1440"/>
+      <level preload="0" height="720" predecode="0" width="720"/>
+      <level preload="1" height="360" predecode="1" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" tilt="17.0231" pan="-2.3096"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90" pan="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" title="Pronkjewails 07" copyright="" customnodeid="" source="" tags="360 fotos" description="" heading="0" author="" info="" nodeid="node26" datetime="5-2-2022 13:44"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label background="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" border="1" bordercolor="0x000000" width="180" textcolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" title="Pronkjewails 03" description="" target="" tilt="0.28" url="{node22}" pan="-266.49"/>
+      <hotspot id="Point02" skinid="ht_node" title="Pronkjewails 06" description="" target="" tilt="4.65" url="{node25}" pan="-164.17"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" enabled="1" blendtime="1" softedge="0" type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" invertwheel="0" hideabout="0" sensitivity="8" invertcontrol="1" simulatemass="1" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input overlap="1" levelingroll="0" height="1440" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1440" levelingpitch="0">
+      <level preload="0" height="1440" predecode="0" width="1440"/>
+      <level preload="0" height="720" predecode="0" width="720"/>
+      <level preload="1" height="360" predecode="1" width="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" projection="4" tilt="19.4026" pan="12.5846"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" scaletofit="1" tilt="90" pan="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" title="Pronkjewails 06" copyright="" customnodeid="" source="" tags="360 fotos" description="" heading="0" author="" info="" nodeid="node25" datetime="5-2-2022 13:43"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label background="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" backgroundalpha="1" border="1" bordercolor="0x000000" width="180" textcolor="0x000000"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" title="Pronkjewails 04" description="" target="" tilt="1.78" url="{node23}" pan="-199.16"/>
+      <hotspot id="Point02" skinid="ht_node" title="Pronkjewails 07" description="" target="" tilt="-0.1" url="{node26}" pan="-152.64"/>
+      <hotspot id="Point03" skinid="ht_url" title="Bekijk het verhaal achter de stoel" description="" target="_blank" tilt="-0.14" url="https://collectie.groningermuseum.nl/Details/collect/5259" pan="-338.24"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomoutpause="1" zoomafterinfov="90" zoomafteroutfov="20" zoomin="0" enabled="1" blendtime="1" softedge="0" type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" invertwheel="0" hideabout="0" sensitivity="8" invertcontrol="1" simulatemass="1" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" latitude="" longitude="" title="" copyright="" customnodeid="" source="" tags="" description="" heading="0" author="" info="" nodeid="master" datetime=""/>
+  </masternode>
+</tour>
